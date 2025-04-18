@@ -11,7 +11,6 @@ I enjoy working in teams, leading purposeful initiatives, and constantly learnin
 
 🏆 Achievements:<br>
 🥇 1st Place in an innovation competition with an AI-powered telemedicine proposal<br><br>
-
 🤝 Leadership in multidisciplinary tech project teams<br><br>
 
 📚 Education<br>
