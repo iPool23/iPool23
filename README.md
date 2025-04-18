@@ -10,7 +10,7 @@ Passionate about technology, innovation, and software development. I specialize 
 I enjoy working in teams, leading purposeful initiatives, and constantly learning.<br><br>
 
 🏆 Achievements:<br>
-🥇 1st Place in an innovation competition with an AI-powered telemedicine proposal<br><br>
+🥇 1st Place in an innovation competition with an AI-powered telemedicine proposal<br>
 🤝 Leadership in multidisciplinary tech project teams<br><br>
 
 📚 Education<br>
