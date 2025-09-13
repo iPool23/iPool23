@@ -1,31 +1,96 @@
-# 💫 About Me:
-👋 Hi! I'm Pool Deza Millones<br>
-🎓 Systems Engineer<br>
-💻 Full-Stack & Back-End Developer<br>
-🌎 From Peru | 📍 22 years old | ⚽ Football enthusiast and team player<br>
-📫 pool.deza16@gmail.com | GitHub<br><br>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Pool%20Deza%20Millones&animation=fadeIn&color=gradient&height=120" alt="Banner Pool Deza Millones" />
+</p>
 
-🧠 About Me<br>
-Passionate about technology, innovation, and software development. I specialize in creating functional and visually appealing solutions using technologies like Next.js, TypeScript, Spring Boot, C#, and React. I have hands-on experience in real-world projects ranging from e-learning platforms to enterprise management systems.<br>
-I enjoy working in teams, leading purposeful initiatives, and constantly learning.<br><br>
+<h1 align="center">Hi, I’m Pool Deza Millones 👋</h1>
 
-🏆 Achievements:<br>
-🥇 1st Place in an innovation competition with an AI-powered telemedicine proposal<br>
-🤝 Leadership in multidisciplinary tech project teams<br><br>
+---
 
-📚 Education<br>
-Señor de Sipán University<br>
-🔹 Currently in 10th semester – Focused on software development, databases, and systems analysis<br>
+## 💫 About Me
+👨‍💻 **Full-Stack & Back-End Developer**  
+🎓 Systems Engineer (Egresado – Universidad Señor de Sipán, 2025)  
+🌎 From Peru | 22 years old  
+📫 **Email:** pool.deza16@gmail.com | [Portfolio](https://ipool23.vercel.app/projects) | [GitHub](https://github.com/iPool23)  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ipool23) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ipool23) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ipool23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipool23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ipool23x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pool.deza16@gmail.com) 
+Soy un apasionado del **desarrollo de software** con más de **2 años de experiencia full-stack**, aplicando metodologías ágiles y liderando equipos multidisciplinarios.  
+Me especializo en tecnologías como **Next.js, TypeScript, React, Spring Boot, TailwindCSS, Prisma y PostgreSQL**, creando soluciones **eficientes, escalables y centradas en la experiencia del usuario**.  
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iPool23&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iPool23&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iPool23&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+He trabajado en **aplicaciones móviles y web**, integrando APIs, optimizando procesos de negocio y desarrollando proyectos reales que impactan en **educación, logística y servicios**.  
+
+---
+
+## 🏆 Achievements
+- 🥇 1.º Puesto en concurso de innovación con propuesta en **telemedicina con IA** (2023).  
+- 🤝 Liderazgo en proyectos de voluntariado y consultoría tecnológica.  
+- 🚀 Desarrollo de apps en producción como [FavorApp](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE), [Juventudes App](https://www.juventudes.app/) y [Educando con Valores](https://educandoconvalores.vercel.app/).  
+
+---
+
+## 📚 Education
+- 🎓 **Universidad Señor de Sipán** – Ingeniería de Sistemas (Egresado, 2025)  
+- 📘 **Workshop Internacional en Inteligencia Artificial** – PHAWAI + TARECDA (2025)  
+- 📗 Certificación **Next.js: El framework de React para producción** – Udemy (2024)  
+- 📗 Certificación en **Inteligencia Artificial y Economía Circular** – Escuela Nacional de Control (2022)  
+
+---
+
+## 🚀 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **FavorApp** | App móvil en producción orientada a servicios. | React Native, Go, PostgreSQL, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE) |
+| **Juventudes App** | Plataforma web para jóvenes con gestión de cursos, actividades y más. | Next.js, Prisma, PostgreSQL, Docker | [Ver App](https://www.juventudes.app/) |
+| **Educando con Valores** | Plataforma educativa de voluntariado. | Next.js, TailwindCSS, PostgreSQL, Docker | [Ver Sitio](https://educandoconvalores.vercel.app/) |
+| **Portfolio** | Mi sitio personal con proyectos y experiencia. | Next.js, Prisma, TailwindCSS, PostgreSQL | [Visitar](https://ipool23.vercel.app/projects) |
+
+---
+
+## 💻 Tech Stack
+**Frontend:** Next.js, React, React Native, TailwindCSS, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Node.js, Spring Boot, C#, PHP, Laravel, .NET, Go  
+**Databases:** PostgreSQL, MySQL, Firebase, Prisma  
+**DevOps & Tools:** Docker, Git, GitHub, Postman, Vercel, Google Cloud  
+**Others:** Unity (C#), WordPress, Figma  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iPool23&show_icons=true&theme=aura&hide_border=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iPool23&theme=aura&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPool23&layout=compact&theme=aura&hide_border=false&count_private=true" alt="Top Languages" />
+</p>
+
+---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iPool23&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iPool23&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ipool23.vercel.app/projects)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ipool23)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ipool23)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ipool23)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipool23)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ipool23)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pool.deza16@gmail.com)  
+
+---
+
+## 📈 Actualmente
+- 📖 Aprendiendo / profundizando en: **Microservicios, Arquitectura escalable, DevOps con Kubernetes**.  
+- 🌍 Buscando colaborar en proyectos **open-source** relacionados con **IA, APIs robustas y educación digital**.  
+
+---
+
+<p align="center">“Work hard in silence; let your success be your noise.”</p>
