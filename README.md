@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Pool%20Deza%20Millones&animation=fadeIn&color=gradient&height=120" alt="Banner Pool Deza Millones" />
-</p>
-
 <h1 align="center">Hi, I’m Pool Deza Millones 👋</h1>
 
 ---
