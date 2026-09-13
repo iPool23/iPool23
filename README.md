@@ -81,7 +81,10 @@ Más de 2 años construyendo software full-stack: apps móviles, dashboards admi
 [![Sitio web](https://img.shields.io/badge/IA%20Systems%20%26%20Data-0c3bd3.svg?logo=googlechrome&logoColor=white)](https://pooldeza.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pool-deza/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/pool_deza_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pool_deza)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pool_deza)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/iPool23)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0508-527X)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pool.deza16@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/51951188632)
 
