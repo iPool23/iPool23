@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Pool Deza Millones 👋</h1>
 <p align="center">Fundador de <a href="https://pooldeza.com">IA Systems & Data</a> · Coordinador Web en la Universidad César Vallejo</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1800&color=0C3BD3&center=true&vCenter=true&width=560&lines=Desarrollo+web+%C2%B7+Software+a+medida+%C2%B7+IA;Next.js+%C2%B7+TypeScript+%C2%B7+React+Native+%C2%B7+n8n;Fundador+de+IA+Systems+%26+Data+%C2%B7+Lima%2C+Per%C3%BA" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 💫 About Me
@@ -55,25 +59,12 @@ Más de 2 años construyendo software full-stack: apps móviles, dashboards admi
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iPool23&show_icons=true&theme=aura&hide_border=false&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iPool23&theme=aura&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPool23&layout=compact&theme=aura&hide_border=false&count_private=true" alt="Top Languages" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=iPool23&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
+## 📊 Actividad
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iPool23/iPool23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iPool23/iPool23/output/github-contribution-grid-snake.svg">
+  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/iPool23/iPool23/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ---
 
