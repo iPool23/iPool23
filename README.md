@@ -1,51 +1,57 @@
-<h1 align="center">Hi, I’m Pool Deza Millones 👋</h1>
+<h1 align="center">Hi, I'm Pool Deza Millones 👋</h1>
+<p align="center">Fundador de <a href="https://pooldeza.com">IA Systems & Data</a> · Coordinador Web en la Universidad César Vallejo</p>
 
 ---
 
 ## 💫 About Me
-👨‍💻 **Full-Stack & Back-End Developer**  
-🎓 Systems Engineer (Egresado – Universidad Señor de Sipán, 2025)  
-🌎 From Peru | 22 years old  
-📫 **Email:** pool.deza16@gmail.com | [Portfolio](https://ipool23.vercel.app/projects) | [GitHub](https://github.com/iPool23)  
+👨‍💻 **Ingeniero de Sistemas · Full-Stack & IA**
+🏢 Fundador de **IA Systems & Data (IASD)** — desarrollo web, software a medida e IA para empresas en Lima
+🎓 Universidad Señor de Sipán (Ingeniería de Sistemas) · UNIR (Máster e IA Generativa, en curso)
+🌎 Chiclayo, Perú → Lima, Perú
+📫 **Email:** pool.deza16@gmail.com | [Sitio](https://pooldeza.com) | [Sobre mí](https://pooldeza.com/sobre-mi) | [LinkedIn](https://www.linkedin.com/in/pool-deza/)
 
-Soy un apasionado del **desarrollo de software** con más de **2 años de experiencia full-stack**, aplicando metodologías ágiles y liderando equipos multidisciplinarios.  
-Me especializo en tecnologías como **Next.js, TypeScript, React, Spring Boot, TailwindCSS, Prisma y PostgreSQL**, creando soluciones **eficientes, escalables y centradas en la experiencia del usuario**.  
+Dirijo el desarrollo web y las landings de campaña de la Universidad César Vallejo, y desde IA Systems & Data ayudo a empresas de Lima a conseguir clientes con webs rápidas, software a medida y automatización con IA (Next.js, React Native, n8n).
 
-He trabajado en **aplicaciones móviles y web**, integrando APIs, optimizando procesos de negocio y desarrollando proyectos reales que impactan en **educación, logística y servicios**.  
+Más de 2 años construyendo software full-stack: apps móviles, dashboards administrativos, sistemas RAG y landings de captación, con **Next.js, TypeScript, React, Spring Boot, Prisma y PostgreSQL**.
 
 ---
 
 ## 🏆 Achievements
-- 🥇 1.º Puesto en concurso de innovación con propuesta en **telemedicina con IA** (2023).  
-- 🤝 Liderazgo en proyectos de voluntariado y consultoría tecnológica.  
-- 🚀 Desarrollo de apps en producción como [FavorApp](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE), [Juventudes App](https://www.juventudes.app/) y [Educando con Valores](https://educandoconvalores.vercel.app/).  
+- 🥇 1.º puesto en el concurso de innovación **Soluciona USS** con una propuesta de telemedicina con IA (2023).
+- 🏢 Fundador de **IA Systems & Data**, estudio de desarrollo web, software e IA con sede en Lima.
+- 🚀 Apps en producción: [FavorApp](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE) (economía colaborativa, microservicios en Go) y [Educando con Valores](https://educandoconvalores.vercel.app/) (voluntariado educativo).
+- 📜 19+ certificaciones en desarrollo, IA y marketing digital — [ver todas en LinkedIn](https://www.linkedin.com/in/pool-deza/details/certifications/).
 
 ---
 
 ## 📚 Education
-- 🎓 **Universidad Señor de Sipán** – Ingeniería de Sistemas (Egresado, 2025)  
-- 📘 **Workshop Internacional en Inteligencia Artificial** – PHAWAI + TARECDA (2025)  
-- 📗 Certificación **Next.js: El framework de React para producción** – Udemy (2024)  
-- 📗 Certificación en **Inteligencia Artificial y Economía Circular** – Escuela Nacional de Control (2022)  
+- 🎓 **Universidad Señor de Sipán** — Ingeniería de Sistemas
+- 📘 **UNIR** — Máster (2026–2027) y Programa Superior en IA Generativa (2026–2027)
+- 📗 **Workshop Internacional en Inteligencia Artificial** — PHAWAI + TARECDA (2025)
+- 📗 Certificación **Next.js: el framework de React para producción** — Udemy (2024)
+- 📗 Certificación en **Inteligencia Artificial y Economía Circular** — Escuela Nacional de Control (2022)
 
 ---
 
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
-| **FavorApp** | App móvil en producción orientada a servicios. | React Native, Go, PostgreSQL, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE) |
-| **Juventudes App** | Plataforma web para jóvenes con gestión de cursos, actividades y más. | Next.js, Prisma, PostgreSQL, Docker | [Ver App](https://www.juventudes.app/) |
-| **Educando con Valores** | Plataforma educativa de voluntariado. | Next.js, TailwindCSS, PostgreSQL, Docker | [Ver Sitio](https://educandoconvalores.vercel.app/) |
-| **Portfolio** | Mi sitio personal con proyectos y experiencia. | Next.js, Prisma, TailwindCSS, PostgreSQL | [Visitar](https://ipool23.vercel.app/projects) |
+| **FavorApp** | App móvil de economía colaborativa: chat en tiempo real, notificaciones push y 4 microservicios en Go. | React Native, Go, WebSockets, Firebase FCM, Docker | [Play Store](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE) |
+| **Escuela de Posgrado UCV** | Rediseño de la landing de captación de leads de la Escuela de Posgrado, con animaciones y scroll fluido. | GSAP, Lenis, Swiper, PHP, Bootstrap | [Ver caso](https://pooldeza.com/proyectos/posgrado-ucv) |
+| **Acuñapedia** | Sistema RAG con búsqueda híbrida (semántica + BM25) para responder preguntas sobre gestión política. | Python, LangChain, FAISS, Next.js, Ollama, MySQL | [Ver caso](https://pooldeza.com/proyectos/acunapedia) |
+| **Dashboard Sistema Web** | Plataforma administrativa con roles, verificación de pagos, códigos QR y chat integrado. | Next.js, TypeScript, PostgreSQL, SSE | [Ver caso](https://pooldeza.com/proyectos/dashboard-sistema-web) |
+| **Educando con Valores** | Plataforma educativa desarrollada en voluntariado para promover valores en aulas. | Next.js, TailwindCSS, PostgreSQL, Docker | [Ver sitio](https://educandoconvalores.vercel.app/) |
+| **IA Systems & Data** | Mi sitio de empresa: casos, blog técnico y captación de leads. | Next.js, Prisma, TailwindCSS, PostgreSQL | [Visitar](https://pooldeza.com) |
 
 ---
 
 ## 💻 Tech Stack
-**Frontend:** Next.js, React, React Native, TailwindCSS, TypeScript, JavaScript, HTML, CSS  
-**Backend:** Node.js, Spring Boot, C#, PHP, Laravel, .NET, Go  
-**Databases:** PostgreSQL, MySQL, Firebase, Prisma  
-**DevOps & Tools:** Docker, Git, GitHub, Postman, Vercel, Google Cloud  
-**Others:** Unity (C#), WordPress, Figma  
+**Frontend:** Next.js, React, React Native, TailwindCSS, TypeScript, JavaScript, HTML, CSS
+**Backend:** Node.js, Spring Boot, C#, PHP, Laravel, .NET, Go
+**IA & Automatización:** n8n, LangChain, FAISS, Ollama, Prompt Engineering
+**Databases:** PostgreSQL, MySQL, Firebase, Prisma
+**DevOps & Tools:** Docker, Git, GitHub, Postman, Vercel, Google Cloud
+**Others:** Unity (C#), WordPress, Figma
 
 ---
 
@@ -72,20 +78,21 @@ He trabajado en **aplicaciones móviles y web**, integrando APIs, optimizando pr
 ---
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ipool23.vercel.app/projects)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ipool23)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ipool23)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ipool23)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipool23)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ipool23)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pool.deza16@gmail.com)  
+[![Sitio web](https://img.shields.io/badge/IA%20Systems%20%26%20Data-0c3bd3.svg?logo=googlechrome&logoColor=white)](https://pooldeza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pool-deza/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/pool_deza_)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/iPool23)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pool.deza16@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/51951188632)
 
 ---
 
 ## 📈 Actualmente
-- 📖 Aprendiendo / profundizando en: **Microservicios, Arquitectura escalable, DevOps con Kubernetes**.  
-- 🌍 Buscando colaborar en proyectos **open-source** relacionados con **IA, APIs robustas y educación digital**.  
+- 🏢 Liderando **IA Systems & Data**: captación de clientes, SEO/GEO/AEO y el blog técnico de [pooldeza.com](https://pooldeza.com/blog).
+- 🖥️ Dirigiendo el desarrollo web y las landings de campaña de la **Universidad César Vallejo**.
+- 📖 Profundizando en **GEO/AEO (visibilidad en IA), n8n y arquitectura de agentes**.
+- 🌍 Abierto a colaborar en proyectos **open-source** de IA, APIs robustas y educación digital.
 
 ---
 
-<p align="center">“Work hard in silence; let your success be your noise.”</p>
+<p align="center">"Work hard in silence; let your success be your noise."</p>
