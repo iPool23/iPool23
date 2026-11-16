@@ -40,6 +40,7 @@ Más de 2 años construyendo software full-stack: apps móviles, dashboards admi
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
+| **MollyIA** | App de escritorio para Windows y Mac que transcribe reuniones de Google Meet, Zoom y Teams en el propio equipo, sabe quién habló y entrega un resumen con tareas. Sin bots. | Python, Whisper, Ollama, Claude API, Node.js | [mollyia.pooldeza.com](https://mollyia.pooldeza.com/) |
 | **FavorApp** | App móvil de economía colaborativa: chat en tiempo real, notificaciones push y 4 microservicios en Go. | React Native, Go, WebSockets, Firebase FCM, Docker | [Play Store](https://play.google.com/store/apps/details?id=com.favorapp&hl=es_PE) |
 | **Escuela de Posgrado UCV** | Rediseño de la landing de captación de leads de la Escuela de Posgrado, con animaciones y scroll fluido. | GSAP, Lenis, Swiper, PHP, Bootstrap | [Ver caso](https://pooldeza.com/proyectos/posgrado-ucv) |
 | **Acuñapedia** | Sistema RAG con búsqueda híbrida (semántica + BM25) para responder preguntas sobre gestión política. | Python, LangChain, FAISS, Next.js, Ollama, MySQL | [Ver caso](https://pooldeza.com/proyectos/acunapedia) |
@@ -82,6 +83,7 @@ Más de 2 años construyendo software full-stack: apps móviles, dashboards admi
 ---
 
 ## 📈 Actualmente
+- 🎙️ Lanzando **[MollyIA](https://mollyia.pooldeza.com/)**, mi app que transcribe y resume reuniones en el propio equipo (Windows y Mac).
 - 🏢 Liderando **IA Systems & Data**: captación de clientes, SEO/GEO/AEO y el blog técnico de [pooldeza.com](https://pooldeza.com/blog).
 - 🖥️ Dirigiendo el desarrollo web y las landings de campaña de la **Universidad César Vallejo**.
 - 📖 Profundizando en **GEO/AEO (visibilidad en IA), n8n y arquitectura de agentes**.
